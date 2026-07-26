@@ -4,7 +4,7 @@
 
 <a href="https://iampushkar.in"><img src="https://img.shields.io/badge/Portfolio-iampushkar.in-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/pushkar-vishwakarma-a0ab852b0/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/pushkarvishwakarma/"><img src="https://img.shields.io/badge/LeetCode-~1684-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<!-- <a href="https://leetcode.com/u/pushkar/"><img src="https://img.shields.io/badge/LeetCode-~1684-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a> -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+production+APIs+with+Spring+Boot;Shipping+RAG+pipelines+with+LangChain+%2B+pgvector;Currently+hunting+for+SDE+internships+%F0%9F%9A%80" alt="Typing SVG" />
 
