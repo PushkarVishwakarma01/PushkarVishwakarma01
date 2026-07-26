@@ -15,7 +15,7 @@
 ## 👋 About Me
 
 - 🎓 Final-year **B.Tech CSE** student at **Amity University Jharkhand** — CGPA `8.7`, graduating 2027
-- 💼 Currently interning at **Main Crafts Technology**, building production-grade APIs with **Spring Boot & JPA**
+- 💼 Building production-grade APIs with **Spring Boot & JPA**
 - 🧠 Deep-diving into **RAG pipelines, LangChain/LangGraph, and vector search (pgvector)**
 - 🏆 Finalist — **ET GenAI Hackathon**, 2nd Place — College Hackathon
 - 🔍 Actively looking for **SDE Internship / New-Grad** roles
