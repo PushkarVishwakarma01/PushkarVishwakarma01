@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-- 🎓 Final-year **B.Tech CSE** student at **Amity University Jharkhand** — CGPA `8.7`, graduating 2027
+- 🎓 Final-year **B.Tech CSE** student at **Amity University Jharkhand** — graduating 2027
 - 💼 Building production-grade APIs with **Spring Boot & JPA**
 - 🧠 Deep-diving into **RAG pipelines, LangChain/LangGraph, and vector search (pgvector)**
 - 🏆 Finalist — **ET GenAI Hackathon**, 2nd Place — College Hackathon
