@@ -138,7 +138,7 @@ A CRM system demonstrating robust API handling and **live notification** deliver
 
 <a href="https://iampushkar.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/pushkar-vishwakarma-a0ab852b0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/pushkarvishwakarma/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://leetcode.com/u/pushkarv/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 
 <br><br>
 
